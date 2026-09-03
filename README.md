@@ -78,6 +78,7 @@
 
 ### CSS & Design
 
+- [HTML Pocket Line Divider](https://www.htmlpocket.com/tools/html-line-divider/) - Browser-based generator for styled semantic `<hr>` dividers.
 - [Toolz.dev Gradient Generator](https://toolz.dev/tools/gradient-generator) - Create beautiful CSS gradients with live preview.
 - [Toolz.dev Color Picker](https://toolz.dev/tools/color-picker) - Pick and convert between color formats (HEX, RGB, HSL).
 - [CSS-Tricks](https://css-tricks.com/) - Tips, tricks, and techniques on using CSS.
